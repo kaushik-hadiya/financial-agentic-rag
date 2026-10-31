@@ -1,0 +1,23 @@
+## **Risks and Concerns**
+
+In line with the Enterprise Risk Management (“**ERM**”) exercise conducted for Eternal at a consolidated level, below are the strategic risks that have been identified and may impact Eternal in the long run. These risks have been further mapped to the relevant Environmental, Social, and Governance (“**ESG**”) pillars from a sustainability standpoint, with their changing trends over the past fiscal year tracked closely by the RMC.
+
+### **• Competition | Governance**
+
+Eternal faces an intensifying competitive landscape across both established and emerging segments, which can directly hinder growth, compress operating margins, and reduce overall platform revenue and profitability. Key risk factors include capital-fueled expansions by quick commerce rivals and the entry of new players. Furthermore, aggressive competitor tactics—such as eliminating user handling fees and lowering delivery fee thresholds—exert strong pricing pressure, triggering risk of customer migration or heightened monthly inactivity on our B2C marketplaces.
+
+To protect market share and strengthen our operational moats, Eternal continues to evolve its business strategy from rapid expansion to sustained efficiency. Blinkit has strategically transitioned to an inventory-owned model to achieve absolute control over pricing, product availability, and margins, supplemented by Hyperpure entering the B2C market as a core seller for fresh and perishable products. Concurrently, Zomato has scaled user retention and expanded affordability features by introducing consumer-centric options like “Healthy Mode” and budget-conscious “Meals under 250,” while the District app continues to establish exclusive global partnerships with international agencies to secure premium event inventories.
+
+Driven by execution capabilities and strategic agility, Eternal is dedicated to sustaining its ecosystem leadership through disciplined cost efficiencies and differentiated consumer offerings.
+
+### **• Regulatory Compliances | Governance**
+
+As a leading digital platform, Eternal operates under an evolving legislative and supervisory framework, where any failure to track, interpret, or communicate regulatory updates can lead to significant operational disruptions, heavy financial penalties, or license cancellations. The compliance landscape has become increasingly demanding following the notification of new centralized Labor Codes which introduced rigid system obligations and social security fund contributions for our fleet. Additionally, heightened platform governance requirements—including explicit data principal consent under Digital Personal Data Protection Rules, strict country-of-origin metrology declarations, Bureau of Indian Standards hallmarking, and enforcement directives from authorities to eliminate delivery speed claims from marketing narratives—require continuous, resource-intensive platform modifications.
+
+To maintain high standards of statutory adherence, Eternal’s public policy, product, and legal teams proactively engage with governing authorities to ensure consistent framework alignments. On the technology front, our data governance structures have been enhanced to incorporate robust consent management systems and transparent country-of-origin discovery filters, while the entire property onboarding flow for dark stores has been embedded with mandatory legal due diligence layers.
+
+Eternal remains committed to fostering an uncompromised culture of compliance, embedding transparent regulatory tracking directly into the core design of our business processes.
+
+### **• Stakeholder Management | Governance**
+
+Eternal’s highly distributed operational model relies on the seamless alignment of key stakeholders, making the platform vulnerable to sudden operational breakthroughs or revenue losses from service lapses. Labor volatility, underscored by nationwide or regional gig worker strikes orchestrated by platform unions over social security structures, presents an immediate threat to last-mile fulfillment continuity and order volumes. Similarly, supply chain constraints across our B2B verticals—driven by intensive competitive hiring and high turnover among warehouse personnel seeking aggressive payout structures—can restrict our ability to reliably fulfill demand during peak business windows. To mitigate friction and fortify stakeholder relationships, our city and central teams have established responsive communication protocols and structured grievance channels. During high-demand and festive

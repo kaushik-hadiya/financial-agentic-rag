@@ -1,0 +1,27 @@
+[project]
+name = "agenticrag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "kmh", email = "kaushikhadiya2710@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "llama-cloud>=1.0",
+    "pydantic-settings>=2.16.2",
+]
+
+[tool.uv]
+# Cache is on another drive (NTFS here), so hardlinks fail; copy instead.
+link-mode = "copy"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.3",
+]
+
+[tool.ruff.lint]
+# NTFS drive marks every file executable, so EXE rules are false alarms here.
+ignore = ["EXE"]

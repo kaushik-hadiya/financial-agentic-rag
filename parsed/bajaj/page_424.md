@@ -1,0 +1,22 @@
+logo: Bajaj 100 Years logo: Bajaj The World's Favourite Indian
+
+<table><tr><th><strong>S. No.</strong></th><th><strong>Location</strong></th><th><strong>Initiative Undertaken</strong></th><th><strong>Details of the initiative (Web-link, if any,</strong> <strong>may be provided along-with summary)</strong></th><th><strong>Outcome of the initiative</strong></th></tr>
+<tr><td rowspan="13">3.</td><td rowspan="13">Chakan-II</td><td>Electrical Energy conservation through efficiency improvement</td><td>Installation of one VSD based compressor at place of fixed speed compressor</td><td>Energy consumption reduced by 18% In compressor operation, total saving of electricity consumption is 3,58,400 kWh/year</td></tr>
+<tr><td>Electrical Energy conservation through efficiency improvement</td><td>Installation of energy-efficient LED lighting with higher lumen/watt performance across the plant.</td><td>Energy Saving = 54,000 kWh/year</td></tr>
+<tr><td>Electrical Energy conservation through efficiency improvement</td><td>Installed all IE3 high efficiency motors for operation</td><td>Energy Conservation - Losses reduced by 30-40%<br />Energy Saving = 1,05,000 kWh/year</td></tr>
+<tr><td>Use of renewable energy for lightning</td><td>Installed 155 skylights/brilanators to provide natural lighting during daytime with adequate lux levels (250–300 lux).</td><td>Energy Saving = 30,000 kWh/year</td></tr>
+<tr><td>Resource Conservation for Environment Improvement</td><td>Installation of a Mechanical Vapor Recompressor (MVR) for the treatment of RO reject to ensure zero liquid discharge</td><td>Water Conservation through recycle and reuse</td></tr>
+<tr><td>Water Efficiency in Sanitary Fixtures</td><td>Installed spacers in urinals and seat flushing systems to reduce water consumption from 6 liters to 4 liters per flush.</td><td>Notable reduction in water usage per cycle, water conservation</td></tr>
+<tr><td>Automated Lighting Control</td><td>Implementation of timer-based and occupancy-sensor lighting controls in office areas and washrooms.</td><td>Improved energy efficiency through reduction in idle power consumption.</td></tr>
+<tr><td>Lighting Optimisation Based on Lux Requirements</td><td>Lighting system optimisation in EA &#x26; Trellis areas based on lux level measurement and production needs.</td><td>Reduced connected lighting load by 10 KW, enhancing energy efficiency.</td></tr>
+<tr><td>Rooftop solar</td><td>Installed 4,141 MWp renewable source of energy</td><td>In FY 25~26 - 32.76 lakh kWh generated till Mar-26</td></tr>
+<tr><td>Use of Portable Compressor</td><td>Three portable compressors installed in BAL shop</td><td>200 kWh saved/Non working day</td></tr>
+<tr><td>HVAC running optimisation</td><td>HVAC AHU VFD speed reduction during winter season in EA</td><td>5,000 kWh/Month saved</td></tr>
+<tr><td>CA Pressure Optimisation</td><td>Reduction of comp. set point from 6.5 bar to 5 bar with addition of air receiver in machine shop</td><td>1,000 kWh/Month saved</td></tr>
+<tr><td>New Technology</td><td>Use of BLDC fan against conventional fans</td><td>50 kWh/Month saved</td></tr>
+<tr><td rowspan="3">4.</td><td rowspan="3">Waluj</td><td>Reduction of plastic packaging</td><td>Reduction by - 6R principles<br />Alternate material, Alternate method, Fit to part packing</td><td>Reduction in plastic waste generation</td></tr>
+<tr><td>Reduction of Energy consumption</td><td>Replacement of sodium vapour lamps by LED lights. Operational controls</td><td>Energy consumption reduction</td></tr>
+<tr><td>Installation of 400KLD ETP &#x26; recycling plant &#x26; RO Polishing plant.</td><td>Installation of 400 KLD ETP &#x26; recycling plant with RO polishing unit to reduced DM Water plant feedwater consumption</td><td>100% recycling of the ETP water</td></tr>
+<tr><td rowspan="3">5.</td><td rowspan="3">Pantnagar</td><td>Electrical Energy conservation through efficiency improvement</td><td>Replacement of 120 Watt (100 lumen/watt) overhead LED lights with 100 Watt (130 lumen/watt) LED lights (70 nos.)</td><td>Saving in kWh = 6,500 unit/year</td></tr>
+<tr><td>Electrical Energy conservation through efficiency improvement</td><td>Provision of energy efficient pump at WRS &#x26; pre-treatment - (03 nos.)</td><td>Saving in kWh = 12,500 unit/year</td></tr>
+<tr><td>Electrical Energy conservation through efficiency improvement</td><td>Provision of transparent roof sheet at PLP area for use of day light</td><td>Saving in kWh = 5,000 unit/year</td></tr></table>

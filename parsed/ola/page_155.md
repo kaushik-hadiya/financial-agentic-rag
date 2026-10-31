@@ -1,0 +1,21 @@
+## **OTHER INFORMATION**
+
+The Holding Company’s Management and Board of Directors are responsible for the other information. The other information comprises the information included in the Annual report, but does not include the financial statements and auditor’s report thereon. The Annual report is expected to be made available to us after the date of this auditor’s report.
+
+Our opinion on the consolidated financial statements does not cover the other information and we will not express any form of assurance conclusion thereon.
+
+### **MANAGEMENT’S AND BOARD OF DIRECTOR’S RESPONSIBILITIES FOR THE CONSOLIDATED FINANCIAL STATEMENTS**
+
+The Holding Company’s Management and Board of Directors are responsible for the preparation and presentation of these consolidated financial statements in term of the requirements of the Act that give a true and fair view of the consolidated state of affairs, consolidated profit loss and other comprehensive income, consolidated statement of changes in equity and consolidated cash flows of the Group in accordance with the accounting principles generally accepted in India, including the Indian Accounting Standards (Ind AS) specified under Section 133 of the Act. The respective Management and Board of Directors of the companies included in the Group are responsible for maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of each company and for preventing and detecting frauds and other irregularities; the selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and the design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the consolidated financial statements that give a true and fair view and are free from ‘material misstatement, whether due to fraud or error, which have been used for the purpose of preparation of the consolidated financial statements by the Management and Board of Directors of the Holding Company, as aforesaid.
+
+In connection with our audit of the consolidated financial statements, our responsibility is to read the other information identified above when it becomes available and, in doing so, consider whether the other information is materially inconsistent with the consolidated financial statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated.
+
+In preparing the consolidated financial statements, the respective Management and Board of Directors of the companies are responsible for assessing the ability of each company to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the respective Board of Directors either intends to liquidate the company or to cease operations, or has no realistic alternative but to do so.
+
+The respective Board of Directors of the companies are responsible for overseeing the financial reporting process of each company.
+
+### **AUDITOR’S RESPONSIBILITIES FOR THE AUDIT OF THE CONSOLIDATED FINANCIAL STATEMENTS**
+
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.
+
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:

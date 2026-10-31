@@ -1,0 +1,9 @@
+<table><tr><th><strong>Theme</strong></th><th><strong>Key initiatives and FY26 updates</strong></th></tr>
+<tr><td rowspan="3"><strong>4. Health, safety, and dignity for all</strong></td><td><strong>For employees</strong><br />• Mandatory health and safety trainings for all employees, with ~90% compliance<br />• Access to qualified doctors and counselors, along with insurance coverage</td></tr>
+<tr><td><strong>For warehouse and store workers</strong><br />• 1.2 lakh+ free consultations and medicines worth INR 3.7 crore provided to store workers, delivery partners and their families through the Blinkit Doctor-at-Store initiative<br />• 84,000+ hours of health &#x26; safety trainings completed by supply chain gig workers (100%+ YoY)</td></tr>
+<tr><td><strong>For delivery partners</strong><br />• On-the-job road accidents per million kms rate improved from 1.6 in FY25 to 1.0 in FY26<br />• Spent INR 200+ crore till date on insurance coverage for delivery partners, covering accidental, OPD, loss-of-pay and maternity benefits<br />– INR 54 crore disbursed in FY26 alone; 27% of payouts for non-accidental claims<br />• Facilitate access to free emergency ambulance services across 900+ cities with 20-minute response time</td></tr>
+<tr><td rowspan="3"><strong>5. Food quality, storage and transportation</strong></td><td>• Mandated valid food safety licenses for restaurants at the time of onboarding on Zomato</td></tr>
+<tr><td>• Trained all delivery partners on food handling practices through online training modules</td></tr>
+<tr><td>• Hyperpure achieved FSSC 22000 certification across its manufacturing operations and 9 major supply chain sites; also received Global G.A.P. certification for its hydroponic farm in Gurugram</td></tr></table>
+
+image: Illustration of a Blinkit store with delivery partners and motorcycles

@@ -1,0 +1,45 @@
+## **4. Other Intangible Assets and Goodwill**
+
+(INR crores)
+
+<table><tr><th rowspan="2"><strong>Particulars</strong></th><th colspan="10"><strong>Other Intangible Assets</strong></th><th rowspan="2"><strong>Goodwill</strong></th></tr>
+<tr><th><strong>Software<br />and<br />website</strong></th><th><strong>Trademarks</strong></th><th><strong>Brand</strong></th><th><strong>Customer<br />Contract &#x26;<br />Relationship/<br />Active users</strong></th><th><strong>Distribution<br />Network/<br />Merchant<br />Relationship</strong></th><th><strong>Technology<br />Platform</strong></th><th><strong>Content<br />/Reviews</strong></th><th><strong>Restaurants<br />Listing<br />Platform</strong></th><th><strong>Non<br />Compete</strong></th><th><strong>Total other<br />intangible<br />assets</strong></th></tr>
+<tr><td><strong>Gross carrying value</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td><strong>As at March 31, 2024</strong></td><td><strong>16</strong></td><td><strong>3</strong></td><td><strong>991</strong></td><td><strong>113</strong></td><td><strong>50</strong></td><td><strong>312</strong></td><td><strong>6</strong></td><td><strong>1</strong></td><td><strong>45</strong></td><td><strong>1,537</strong></td><td><strong>5,060</strong></td></tr>
+<tr><td>Additions</td><td>28</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>28</strong></td><td>-</td></tr>
+<tr><td>Acquired by way of business<br />combination(refer note 27)</td><td>7</td><td>-</td><td>13</td><td>44</td><td>219</td><td>107</td><td>-</td><td>-</td><td>38</td><td><strong>428</strong></td><td>1,020</td></tr>
+<tr><td>Deletions / adjustments</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>Exchange differences on translation of<br />foreign operations</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>0</strong></td><td>-</td></tr>
+<tr><td><strong>As at March 31, 2025</strong></td><td><strong>51</strong></td><td><strong>3</strong></td><td><strong>1,004</strong></td><td><strong>157</strong></td><td><strong>269</strong></td><td><strong>419</strong></td><td><strong>6</strong></td><td><strong>1</strong></td><td><strong>83</strong></td><td><strong>1,993</strong></td><td><strong>6,080</strong></td></tr>
+<tr><td>Additions</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>5</strong></td><td>-</td></tr>
+<tr><td>Deletions / adjustments</td><td>(0)</td><td>(1)</td><td>(194)</td><td>(64)</td><td>-</td><td>(27)</td><td>(6)</td><td>(1)</td><td>-</td><td><strong>(293)</strong></td><td>(242)</td></tr>
+<tr><td>Exchange differences on translation of<br />foreign operations</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>0</strong></td><td>-</td></tr>
+<tr><td><strong>As at March 31, 2026</strong></td><td><strong>56</strong></td><td><strong>2</strong></td><td><strong>810</strong></td><td><strong>93</strong></td><td><strong>269</strong></td><td><strong>392</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>83</strong></td><td><strong>1,705</strong></td><td><strong>5,838</strong></td></tr>
+<tr><td><strong>Accumulated amortisation</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td><strong>As at March 31, 2024</strong></td><td><strong>12</strong></td><td><strong>3</strong></td><td><strong>405</strong></td><td><strong>67</strong></td><td><strong>16</strong></td><td><strong>143</strong></td><td><strong>5</strong></td><td><strong>0</strong></td><td><strong>15</strong></td><td><strong>666</strong></td><td><strong>2</strong></td></tr>
+<tr><td>Amortisation</td><td>6</td><td>-</td><td>161</td><td>26</td><td>23</td><td>58</td><td>-</td><td>-</td><td>13</td><td><strong>287</strong></td><td>-</td></tr>
+<tr><td>Acquired by way of business<br />combination(refer note 27)</td><td>7</td><td>-</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td><strong>10</strong></td><td>-</td></tr>
+<tr><td>Deletions / adjustments</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>Exchange differences on translation of<br />foreign operations</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>0</strong></td><td>-</td></tr>
+<tr><td><strong>As at March 31, 2025</strong></td><td><strong>25</strong></td><td><strong>3</strong></td><td><strong>568</strong></td><td><strong>93</strong></td><td><strong>39</strong></td><td><strong>201</strong></td><td><strong>5</strong></td><td><strong>0</strong></td><td><strong>29</strong></td><td><strong>963</strong></td><td><strong>2</strong></td></tr>
+<tr><td>Amortisation</td><td>13</td><td>-</td><td>164</td><td>17</td><td>32</td><td>65</td><td>-</td><td>-</td><td>15</td><td><strong>306</strong></td><td>-</td></tr>
+<tr><td>Deletions / adjustments</td><td>-</td><td>(1)</td><td>(143)</td><td>(17)</td><td>-</td><td>(9)</td><td>(5)</td><td>(0)</td><td>-</td><td><strong>(175)</strong></td><td>(2)</td></tr>
+<tr><td>Exchange differences on translation of<br />foreign operations</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>0</strong></td><td>-</td></tr>
+<tr><td><strong>As at March 31, 2026</strong></td><td><strong>38</strong></td><td><strong>2</strong></td><td><strong>589</strong></td><td><strong>93</strong></td><td><strong>71</strong></td><td><strong>257</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>44</strong></td><td><strong>1,094</strong></td><td><strong>-</strong></td></tr>
+<tr><td><strong>Impairment Loss</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td><strong>As at March 31, 2024</strong></td><td><strong>0</strong></td><td><strong>0</strong></td><td><strong>51</strong></td><td><strong>47</strong></td><td><strong>-</strong></td><td><strong>18</strong></td><td><strong>1</strong></td><td><strong>1</strong></td><td><strong>-</strong></td><td><strong>118</strong></td><td><strong>341</strong></td></tr>
+<tr><td>Exchange differences on translation of<br />foreign operations</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>Deletions / adjustments</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>As at March 31, 2025</strong></td><td><strong>0</strong></td><td><strong>0</strong></td><td><strong>51</strong></td><td><strong>47</strong></td><td><strong>-</strong></td><td><strong>18</strong></td><td><strong>1</strong></td><td><strong>1</strong></td><td><strong>-</strong></td><td><strong>118</strong></td><td><strong>341</strong></td></tr>
+<tr><td>Exchange differences on translation of<br />foreign operations</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>Deletions / adjustments</td><td>(0)</td><td>(0)</td><td>(51)</td><td>(47)</td><td>-</td><td>(18)</td><td>(1)</td><td>(1)</td><td>-</td><td><strong>(118)</strong></td><td>(240)</td></tr>
+<tr><td><strong>As at March 31, 2026</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>101</strong></td></tr>
+<tr><td><strong>Net carrying value</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td><strong>As at March 31, 2025</strong></td><td><strong>26</strong></td><td><strong>0</strong></td><td><strong>385</strong></td><td><strong>17</strong></td><td><strong>230</strong></td><td><strong>200</strong></td><td><strong>-</strong></td><td><strong>0</strong></td><td><strong>54</strong></td><td><strong>912</strong></td><td><strong>5,737</strong></td></tr>
+<tr><td><strong>As at March 31, 2026</strong></td><td><strong>18</strong></td><td><strong>-</strong></td><td><strong>221</strong></td><td><strong>-</strong></td><td><strong>198</strong></td><td><strong>135</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>39</strong></td><td><strong>611</strong></td><td><strong>5,737</strong></td></tr></table>
+
+## **Company Overview**
+
+## **Statutory Reports**
+
+## **Financial Statements: Consolidated**

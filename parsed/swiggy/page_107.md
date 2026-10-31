@@ -1,0 +1,50 @@
+<table><tr><th><strong>BRSR section</strong></th><th>BRSR principle</th><th>BRSR question</th><th>GRI indicator</th></tr>
+<tr><td rowspan="15"></td><td rowspan="15"></td><td>Name of the national and international codes/certifications/labels/<br />standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest Alliance,<br />Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity and<br />mapped to each principle.</td><td></td></tr>
+<tr><td>Specific commitments, goals and targets set by the entity with defined<br />timelines, if any.</td><td>GRI 3-3-c<br />GRI 3-3-e-ii</td></tr>
+<tr><td>Performance of the entity against the specific commitments, goals and<br />targets along-with reasons in case the same are not met.</td><td>GRI 3-3-e-iii</td></tr>
+<tr><td>Statement by director responsible for the business responsibility report,<br />highlighting ESG related challenges, targets and achievements (listed entity<br />has flexibility regarding the placement of this disclosure)</td><td>GRI 2-22-a<br />GRI 2-12-a</td></tr>
+<tr><td>Details of the highest authority responsible for implementation and oversight<br />of the Business Responsibility policy (ies)</td><td>GRI 2-13-a-i</td></tr>
+<tr><td>Does the entity have a specified Committee of the Board/ Director<br />responsible for decision making on sustainability related issues? (Yes / No). If<br />yes, provide details.</td><td>GRI 2-9-b<br />GRI 2-9-c-i-viii</td></tr>
+<tr><td>Details of Review of NGRBCs by the Company:</td><td></td></tr>
+<tr><td>Performance against above policies and follow up action</td><td></td></tr>
+<tr><td>Compliance with statutory requirements of relevance to the principles, and,<br />rectification of any non-compliances</td><td></td></tr>
+<tr><td>Has the entity carried out independent assessment/ evaluation of the<br />working of its policies by an external agency? (Yes/No). If yes, provide name<br />of the agency.</td><td>GRI 2-5-b-i-iii</td></tr>
+<tr><td>If answer to question (1) above is “No” i.e. not all Principles are covered by a<br />policy, reasons to be stated:</td><td></td></tr>
+<tr><td>The entity does not consider the Principles material to its business (Yes/No)</td><td></td></tr>
+<tr><td>The entity is not at a stage where it is in a position to formulate and<br />implement the policies on specified principles (Yes/No)</td><td></td></tr>
+<tr><td>The entity does not have the financial or/human and technical resources<br />available for the task (Yes/No)</td><td></td></tr>
+<tr><td>It is planned to be done in the next financial year (Yes/No)</td><td></td></tr>
+<tr><td>Any other reason (please specify)</td><td></td></tr>
+<tr><td><strong>Section C</strong></td><td>Principle 1</td><td>Percentage coverage by training and awareness programmes on any of the<br />principles during the financial year:</td><td>GRI 2-17-a<br />GRI 2-24-a-iv</td></tr>
+<tr><td></td><td></td><td>Details of fines / penalties / punishment/ award/ compounding fees/<br />settlement amount paid in proceedings (by the entity or by directors /<br />KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the<br />financial year, in the following format (Note: the entity shall make disclosures<br />on the basis of materiality as specified in Regulation 30 of SEBI (Listing<br />Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed<br />on the entity’s website):</td><td>GRI 2-27-a-i-ii<br />GRI 2-27-b-i-ii<br />GRI 2-27-c<br />GRI 2-27-d</td></tr>
+<tr><td></td><td></td><td>Of the instances disclosed in Question 2 above, details of the Appeal/<br />Revision preferred in cases where monetary or non-monetary action has<br />been appealed</td><td>GRI 2-27-a-i-ii</td></tr>
+<tr><td></td><td></td><td>Does the entity have an anti-corruption or anti-bribery policy? If yes, provide<br />details in brief and if available, provide a web-link to the policy</td><td>GRI 2-23-a<br />GRI 2-23-c<br />GRI 3-3-c<br />GRI 205-1</td></tr>
+<tr><td></td><td></td><td>Number of Directors/KMPs/employees/workers against whom disciplinary<br />action was taken by any law enforcement agency for the charges of bribery/<br />corruption:</td><td>GRI 205-1<br />GRI 205-3- (a-d)</td></tr>
+<tr><td></td><td></td><td>Details of complaints with regard to conflict of interest:</td><td>GRI 2-25-e<br />GRI 2-15- (a, b)</td></tr>
+<tr><td></td><td></td><td>Provide details of any corrective action taken or underway on issues related<br />to fines / penalties / action taken by regulators/ law enforcement agencies/<br />judicial institutions, on cases of corruption and conflicts of interest.</td><td>GRI 205-3</td></tr>
+<tr><td></td><td></td><td>Number of days of accounts payables ((Accounts payable *365) / Cost of<br />goods/services procured) in the following format</td><td></td></tr>
+<tr><td></td><td></td><td>Open-ness of business Provide details of concentration of purchases and<br />sales with trading houses, dealers, and related parties along-with loans and<br />advances &#x26; investments, with related parties, in the following format:</td><td></td></tr></table>
+
+<table><tr><th>BRSR section</th><th>BRSR principle</th><th>BRSR question</th><th>GRI indicator</th></tr>
+<tr><td rowspan="15"></td><td rowspan="15"></td><td>Awareness programmes conducted for value chain partners on any of the<br />Principles during the financial year</td><td>GRI 2-24-a-iv</td></tr>
+<tr><td>Does the entity have processes in place to avoid/ manage conflict of<br />interests involving members of the Board? (Yes/No) If Yes, provide details of<br />the same</td><td>GRI 2-10-b-iii<br />GRI 2-15-a</td></tr>
+<tr><td rowspan="13">Principle 2</td><td>Percentage of R&#x26;D and capital expenditure (capex) investments in specific<br />technologies to improve the environmental and social impacts of product<br />and processes to total R&#x26;D and capex investments made by the entity,<br />respectively.</td><td></td></tr>
+<tr><td>a. Does the entity have procedures in place for sustainable sourcing? (Yes/<br />No) b. If yes, what percentage of inputs were sourced sustainably?</td><td>GRI 308-1-a<br />GRI 414-1-a</td></tr>
+<tr><td>Describe the processes in place to safely reclaim your products for reusing,<br />recycling and disposing at the end of life, for (a) Plastics (including packaging) GRI 306-2-a<br />(b) E-waste (c) Hazardous waste and (d) other waste.</td><td>GRI 3-3-d<br />GRI 306-2-a</td></tr>
+<tr><td>Whether Extended Producer Responsibility (EPR) is applicable to the entity’s<br />activities (Yes / No). If yes, whether the waste collection plan is in line with the<br />Extended Producer Responsibility (EPR) plan submitted to Pollution Control<br />Boards? If not, provide steps taken to address the same</td><td></td></tr>
+<tr><td>Has the entity conducted Life Cycle Perspective / Assessments (LCA) for<br />any of its products (for manufacturing industry) or for its services (for service<br />industry)? If yes, provide details in the following format?</td><td></td></tr>
+<tr><td>If there are any significant social or environmental concerns and/or risks<br />arising from production or disposal of your products / services, as identified<br />in the Life Cycle Perspective / Assessments (LCA) or through any other means,<br />briefly describe the same along-with action taken to mitigate the same</td><td>GRI 3-3- (a, d)<br />GRI 306-1<br />GRI 306-2-a</td></tr>
+<tr><td>Percentage of recycled or reused input material to total material (by value)<br />used in production (for manufacturing industry) or providing services (for<br />service industry).</td><td>GRI 301-1<br />GRI 301-2-a</td></tr>
+<tr><td>Of the products and packaging reclaimed at end of life of products, amount<br />(in metric tonnes) reused, recycled, and safely disposed, as per the following<br />format:</td><td>GRI 301-2-a<br />GRI 301-3-a</td></tr>
+<tr><td>Reclaimed products and their packaging materials (as percentage of<br />products sold) for each product category.</td><td>GRI 301-1<br />GRI 301-3-a</td></tr>
+<tr><td rowspan="11">Principle 3</td><td>Details of measures for the well-being of employees:</td><td>GRI 401-2-a-i-vii</td></tr>
+<tr><td>Details of measures for the well-being of workers:</td><td></td></tr>
+<tr><td>Spending on measures towards well-being of employees and workers<br />(including permanent and other than permanent) in the following format –</td><td></td></tr>
+<tr><td>Details of retirement benefits, for Current FY and Previous Financial Year</td><td>GRI-201-3-b-i-iii GRI<br />201-3-c<br />GRI 201-3-d<br />GRI 201-3-e</td></tr>
+<tr><td>Accessibility of workplaces Are the premises / offices of the entity accessible<br />to differently abled employees and workers, as per the requirements of the<br />Rights of Persons with Disabilities Act, 2016? If not, whether any steps are<br />being taken by the entity in this regard.</td><td>GRI 3-3</td></tr>
+<tr><td>Does the entity have an equal opportunity policy as per the Rights of Persons GRI 3-3-c<br />with Disabilities Act, 2016? If so, provide a web-link to the policy.</td><td></td></tr>
+<tr><td>Return to work and Retention rates of permanent employees and workers<br />that took parental leave.</td><td>GRI 401-3</td></tr>
+<tr><td>Is there a mechanism available to receive and redress grievances for the<br />following categories of employees and worker? If yes, give details of the<br />mechanism in brief</td><td>GRI 2-25</td></tr>
+<tr><td>Membership of employees and worker in association(s) or Unions recognised<br />by the listed entity</td><td>GRI 2-30-a<br />GRI 402-1<br />GRI 407-1</td></tr>
+<tr><td>Details of training given to employees and workers</td><td>GRI 403-5-a<br />GRI 404-1-a-i<br />GRI 404-2-a</td></tr>
+<tr><td>Details of performance and career development reviews of employees and<br />worker</td><td>GRI 404-3- a</td></tr></table>

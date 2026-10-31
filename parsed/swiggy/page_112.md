@@ -1,0 +1,50 @@
+### **(B) Technology Absorption:**
+
+<table><tr><th><strong>Sr. No.</strong></th><th><strong>Particulars</strong></th><th><strong>Category</strong></th></tr>
+<tr><td>1.</td><td>Efforts, in brief, made towards technology absorption</td><td>Swiggy was architected on AWS from its founding, making cloud-native engineering intrinsic to its DNA rather than an absorbed capability. Technology absorption efforts are therefore focused on continuously evolving depth of AWS service utilisation and layered third-party tooling as the platform scales. Key ongoing efforts include:<br /><br />(i) progressive adoption of advanced AWS-native services – graduating from EC2-based workloads to fully serverless and container-native architectures on Amazon EKS &#x26; Lambda;<br />(ii) deepening security posture through AWS Config, WAF &#x26; Shield Advanced;<br />(iii) maturing DevSecOps practices with SonarQube, and AWS CodePipeline;<br />(iv) evolving the data platform through AWS MSK (Kafka), Glue, and S3-based lakehouse;<br />(v) absorbing AI/ML capabilities via Amazon SageMaker and Bedrock for product intelligence; and<br />(vi) institutionalising FinOps, SRE, and Platform Engineering disciplines as formal engineering practices.</td></tr>
+<tr><td>2.</td><td>Benefits derived as a result of the above efforts, e.g., product improvement, cost reduction, product development, import substitution, etc.</td><td>(a) Cost Efficiency: FinOps-driven optimisation (Savings Plans, Spot Instances, rightsizing) continuously improves cloud unit economics at Swiggy's scale.<br /><br />(b) Product Excellence: AWS-native scalability has enabled Swiggy to reliably serve millions of daily transactions, support peak-load events (festive seasons, IPL nights), and continuously ship product improvements via automated CI/CD pipelines. (c) Security &#x26; Compliance: Native AWS security tooling underpins Swiggy's compliance with SOC 2 Type II, PCI-DSS, and ISO 27001, ensuring customer data protection at scale.<br /><br />(d) Engineering Velocity: Self-service infrastructure via IaC (Terraform) and internal developer platforms has significantly reduced time-to-production for new features.<br /><br />(e) Business Resilience: Multi-AZ and multi-region architecture ensures high availability and disaster recovery readiness.<br /><br />(f) Sustainability: Operating on AWS's renewable-energy-backed infrastructure directly reduces Swiggy's Scope 2 carbon emissions compared to equivalent owned data centre operations.</td></tr>
+<tr><td>3.</td><td>In case of imported technology (imported during the last 3 years reckoned from the beginning of the financial year), following information may be furnished:</td><td></td></tr>
+<tr><td></td><td>a. Details of technology imported</td><td>Swiggy does not import physical technology. As a cloud-native, software-first company, third-party platforms layered on top of its foundational AWS infrastructure include: Orca, Terraform, Secret Manager.</td></tr>
+<tr><td></td><td>b. Year of import</td><td>Third-party tooling platforms listed above were progressively onboarded across FY 2022–23 through FY 2024–25 as engineering scale demanded.</td></tr>
+<tr><td></td><td>c. Whether the technology been fully absorbed</td><td>Yes all third-party platforms are fully integrated into Swiggy's production engineering lifecycle, supported by trained teams, internal runbooks, and operational SOPs.</td></tr>
+<tr><td></td><td>d. If not fully absorbed, areas where absorption has not taken place, and the reasons therefore</td><td>Not Applicable. Ongoing capability expansion (e.g., GenAI workflows on Amazon Bedrock, advanced MLOps maturity on SageMaker) represents deliberate roadmap progression, not an absorption gap.</td></tr>
+<tr><td>4.</td><td>The expenditure incurred on Research and Development</td><td>(i) Capital R&#x26;D: Proprietary ML/AI model development, logistics optimisation engine, internal developer platform (IDP) build-out, and data platform infrastructure.<br /><br />(ii) Revenue R&#x26;D: Engineering team costs for platform &#x26; product R&#x26;D; AWS compute for ML training &#x26; experimentation; software licensing for development tooling.<br /><br />(iii) R&#x26;D as % of Turnover: (To be furnished by Finance team from internal cost-centre records per Ind AS 38 and Companies Act Schedule VI.)</td></tr></table>
+
+### **(C) Foreign Exchange Earnings and Outgo**
+
+(Amount in ₹ crore)
+
+<table><tr><th><strong>Particulars</strong></th><th><strong>Financial Year ended<br />March 31, 2026.</strong></th><th><strong>Financial Year ended<br />March 31, 2025.</strong></th></tr>
+<tr><td>Foreign Exchange Earning (Inflow)</td><td>13.22</td><td>-</td></tr>
+<tr><td>Foreign Exchange Expenditure (Outflow)</td><td>178.70</td><td>130.68</td></tr></table>
+
+logo: Swiggy icon: navigation
+
+Corporate Overview
+Statutory Reports
+**Financial Statements**
+
+## **Independent Auditor’s Report**
+
+**To the Members of Swiggy Limited** *(formerly known as ‘Swiggy Private Limited’ and ‘Bundl Technologies Private Limited’)*
+
+### **Report on the Audit of the Consolidated Financial Statements**
+
+#### **Opinion**
+
+1. We have audited the accompanying consolidated financial statements of Swiggy Limited (formerly known as ‘Swiggy Private Limited’ and ‘Bundl Technologies Private Limited’) (‘the Holding Company’), which includes the Swiggy Employee Stock Option Trust (‘the Trust’) and its subsidiaries (the Holding Company, the Trust and its subsidiaries together referred to as ‘the Group’) and its associate, as listed in Annexure III, which comprise the Consolidated Balance Sheet as at 31 March 2026, the Consolidated Statement of Profit and Loss (including Other Comprehensive Income), the Consolidated Cash Flow Statement, the Consolidated Statement of Changes in Equity for the year then ended and notes to the consolidated financial statements, including material accounting policy information and other explanatory information.
+
+2. In our opinion and to the best of our information and according to the explanations given to us the aforesaid consolidated financial statements give the information required by the Companies Act, 2013 (‘the Act’) in the manner so required and give a true and fair view in conformity with the Indian Accounting Standards (‘Ind AS’) specified under Section 133 of the Act, read with the Companies (Indian Accounting Standards) Rules, 2015, and other accounting principles generally accepted in India of the consolidated state of affairs of the Group and its associate as at 31 March 2026, their consolidated loss (including other comprehensive income), consolidated cash flows and the consolidated changes in equity for the year ended on that date.
+
+#### **Basis for Opinion**
+
+3. We conducted our audit in accordance with the Standards on Auditing specified under Section 143(10) of the Act. Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements section of our report. We are independent of the Group and its associate in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India (‘ICAI’) together with the ethical requirements that are relevant to our audit of the consolidated financial statements under the provisions of the Act and the rules thereunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+#### **Key Audit Matters**
+
+4. Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the consolidated financial statements of the current period. These matters were addressed in the context of our audit of the consolidated financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+5. We have determined the matters described below to be the key audit matters to be communicated in our report.
+
+<table><tr><th><strong>Key Audit Matters</strong></th><th><strong>How our audit addressed the Key Audit Matters</strong></th></tr>
+<tr><td><strong>Revenue recognition from platform services</strong><br /><br />Refer Note 2.6 for material accounting policy information and Note 22 for financial disclosures in the consolidated financial statements.<br /><br />The Holding Company generates revenue from providing an e-commerce platform to partner merchants (including restaurant merchants, grocery merchants and delivery partners) facilitating them to sell their food, grocery, and other items to users of platform. The platform is also used to make restaurant reservations and for various other services.<br /><br />Revenue recognition as per Ind AS 115, ‘Revenue from contracts with customers’ (‘Ind AS 115’), involve significant judgements in identification of customer and determining transaction price after considering adjustments for discounts/ incentives.</td><td><strong>Our audit procedures included, but were not limited to, the following:</strong><br />• Obtained an understanding of the Holding Company’s revenue streams, incentive/ promotional schemes, underlying contractual arrangements and assessed the appropriateness of the revenue recognition accounting policies in accordance with Ind AS 115.<br />• Obtained an understanding and evaluated the design and implementation of key financial controls (including IT controls) and tested their operating effectiveness with respect to the revenue recognition process.<br />• Involved the auditor’s IT specialists and :<br />– obtained an understanding of the Holding Company’s information processing systems, databases, operating systems, IT general controls, automated controls and manual IT dependent controls which were relevant to our audit;</td></tr></table>

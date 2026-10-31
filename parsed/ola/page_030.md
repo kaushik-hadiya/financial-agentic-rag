@@ -1,0 +1,27 @@
+The Company’s business units and corporate functions follow a structured and institutionalised approach to risk management, aligned with its overall strategic goals. The Risk Committee oversees the organization’s overall risk management process through our Enterprise Risk Management program. The Risk Management Committee reviews key business risk areas, encompassing operational, financial, strategic, and regulatory aspects including the mitigation strategies. The Risks and its management is currently handled by the Internal Audit team. The Risks are periodically presented to the Management and the Audit Committee.
+
+The composition and key terms of reference of the Risk Management Committee have been discussed in detail in the Management Discussion and Analysis section and Corporate Governance Report which forms an integral part of the Annual Report.
+
+## **13. AUDITORS & REPORTS:**
+
+**A. <u>Statutory Auditors:</u>** M/s. B S R & Co. LLP, Chartered Accountants (ICAI Firm Registration No.: 101248W/W-100022), were appointed as the Statutory Auditors of the Company for a term of five (5) years, from the conclusion of the 5th Annual General Meeting until the conclusion of the 10th Annual General Meeting, to be held in the year 2027.
+
+Pursuant to the provisions of Sections 139 and 141 of the Act, and the relevant rules made thereunder, the Statutory Auditors have confirmed that they are eligible and not disqualified to continue as Auditors of the Company. They have also confirmed that they have undergone the peer review process conducted by the Institute of Chartered Accountants of India (ICAI) and hold a valid certificate issued by the Peer Review Board of the ICAI.
+
+The Statutory Auditors have issued an unmodified opinion on the standalone financial statements of the Company for FY 2025-26. The Statutory Auditors have also issued an unmodified opinion on the consolidated financial statements of the Company. However, the auditors have expressed a qualified opinion in respect of the internal financial controls with reference to the consolidated financial statements, arising from a material weakness identified in relation to the physical verification of finished goods and raw materials at the plant and stores of one of the wholly owned subsidiaries. The auditors have stated that this matter does not affect their opinion on the consolidated financial statements of the Group.
+
+### **Management Response**
+
+At the outset, the Management wishes to highlight that the observation with respect to Internal Financial Controls (“IFC”) represents an isolated case relating to the physical verification of inventory at Ola Electric Technologies Private Limited (“OET”), a wholly owned subsidiary of the Company.
+
+While the Statutory Auditors, M/s. B S R & Co. LLP, have brought this matter to the attention of the shareholders as part of their independent reporting on IFC, they have also provided an unmodified opinion on the standalone and consolidated financial statements of the Company, stating that the financial statements present a true and fair view of the financial position of the Company.
+
+The Company recognises that strong internal controls are a cornerstone of sound corporate governance and sustainable business growth. The Company believes that its existing comprehensive framework supports operational excellence, financial integrity and compliance with applicable regulatory requirements. The Company and its Management remain fully committed to establishing, implementing and maintaining robust IFC and strengthening the existing IFC framework.
+
+During Q4 FY 2025-26, the Company undertook a redesign of its network operations with a view to achieving significant operational and cost efficiencies. As part of this exercise, there was a temporary realignment of inventory processes, which was commented upon by the Statutory Auditors. During the said period of realignment, physical verification of inventory at the relevant wholly owned subsidiary could not be conducted by the Management as at the year-end. The inventory was, however, validated through a review of the relevant data in the Company’s ERP system, which did not report any discrepancy. The Company also has a practice of conducting periodic physical verification of inventory, which was undertaken before and after the network redesign.
+
+Based on the above, the Management is of the view that there was no misplacement of inventory and, consequently, no financial impact on the Company. The observation relates to the conduct of physical verification by the Management as at the year-end and is an Internal Financial Controls reporting matter.
+
+The Management has implemented structured measures and controls, including investments in technology and other systemic changes in processes across the value chain, to further strengthen inventory management and specifically ensure that controls relating to physical verification are robust, consistent and effective.
+
+**B. <u>Cost Auditor:</u>** The provisions of Section 148 the Act, read with Rule 3 of the Companies (Cost Records and Audit) Rules, 2014, are not applicable to the Company. Accordingly, the Company was not required to and has not appointed a Cost Auditor for the financial year under review.

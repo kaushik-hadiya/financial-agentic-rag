@@ -1,0 +1,17 @@
+## **VII. Transparency and Disclosure Compliances**
+
+### **25. Complaints/ Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:**
+
+<table><tr><th rowspan="2"><strong>Stakeholder</strong> <strong>group from whom</strong> <strong>complaint is</strong> received</th><th rowspan="2"><strong>Grievance</strong> <strong>Redressal</strong> <strong>Mechanism in</strong> <strong>place (Yes/ No)</strong></th><th colspan="3"><strong>FY 2025-26</strong></th><th colspan="3"><strong>FY 2024-25</strong></th></tr>
+<tr><th><strong>Number of</strong> complaints <strong>filed during</strong> <strong>the year</strong></th><th><strong>Number of</strong> complaints <strong>pending</strong> <strong>resolution</strong> <strong>at close of</strong> <strong>the year*</strong></th><th>Remarks</th><th><strong>Number of</strong> complaints <strong>filed during</strong> <strong>the year</strong></th><th><strong>Number of</strong> complaints <strong>pending</strong> <strong>resolution</strong> <strong>at close of</strong> <strong>the year</strong></th><th>Remarks</th></tr>
+<tr><td>Communities</td><td>Yes: <u>Link</u></td><td>0</td><td>0</td><td>Legal cases filed before any court of law have been considered.</td><td>0</td><td>0</td><td>Legal cases filed before any court of law have been considered.</td></tr>
+<tr><td>Shareholders</td><td>Yes: <u>Link</u></td><td>463</td><td>0</td><td>Complaints filed on the NSE and BSE have been considered.</td><td>617</td><td>0</td><td>Complaints filed on the NSE and BSE have been considered.</td></tr>
+<tr><td>Investors (other than shareholders)</td><td>Yes: <u>Link</u></td><td>-</td><td>-</td><td>Not Applicable</td><td>-</td><td>-</td><td>Not Applicable</td></tr>
+<tr><td>Employees and workers**</td><td><u>Yes</u>(Links: <u>Prevention of Sexual Harassment at the Workplace policy,</u> <u>Vigil mechanism and whistleblower policy,</u> <u>Health and safety policy</u> and <u>Human rights policy</u>)</td><td>32</td><td>5</td><td>POSH, human rights, working conditions, health &#x26; safety and whistleblower complaints have been considered.</td><td>113</td><td>2</td><td>POSH, human rights, working conditions, health &#x26; safety and whistleblower complaints have been considered.</td></tr>
+<tr><td>Customers (End-users and restaurant partners)</td><td>Yes: <u>Link</u></td><td>134</td><td>239</td><td>Legal cases filed before various courts have been considered.</td><td>100</td><td>177</td><td>Legal cases filed before various courts have been considered.</td></tr>
+<tr><td>Value Chain Partners(Delivery partners and suppliers/vendors)</td><td>Yes: <u>Link</u></td><td>4</td><td>16</td><td>Legal cases filed before any court of law have been considered.</td><td>8</td><td>16</td><td>Legal cases filed before any court of law have been considered.</td></tr>
+<tr><td>Other (please specify)</td><td></td><td></td><td></td><td>-</td><td></td><td></td><td></td></tr></table>
+
+\*The number of complaints pending resolution at close of the year FY26 also includes the unresolved complaints from FY25.
+
+\*\**Eternal has developed a robust mechanism for recording employee and worker complaints. We continue to educate and sensitize our employees and workers regarding the channels for reporting such complaints.*

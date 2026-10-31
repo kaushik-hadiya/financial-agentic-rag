@@ -1,0 +1,22 @@
+standalone financial statements in place and the operating effectiveness of such controls.
+
+* Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the management.
+* Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the standalone financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Company to cease to continue as a going concern.
+* Evaluate the overall presentation, structure and content of the standalone financial statements, including the disclosures, and whether the standalone financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+* Obtain sufficient appropriate audit evidence regarding the financial information of the Company which includes the trust to express an opinion on the standalone financial statements. We are responsible for the direction, supervision and performance of the audit of the financial statements of such entities included in the standalone financial statements of which we are the independent auditor. For the trust included in the standalone financial statements, which have been audited by the other auditor, such other auditor remain responsible for the direction, supervision and performance of the audits carried out by them. We remain solely responsible for our audit opinion.
+
+Materiality is the magnitude of misstatements in the standalone financial statements that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the standalone financial statements may be influenced.
+
+We consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the effect of any identified misstatements in the standalone financial statements.
+
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal financial controls that we identify during our audit.
+
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the standalone financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+## **Other Matters**
+
+We did not audit the financial statements of trust included in the standalone financial statements of the Company whose financial statements reflect total assets of ₹ 34 crores as at 31<sup>st</sup> March 2026 and total revenue of ₹ Nil and net cash inflows to ₹ Nil for the year ended on that date, as considered in the standalone financial statements. The financial statements of trust have been audited by the other auditor whose reports have been furnished to us, and our opinion in so far as it relates to the amounts and disclosures included in respect of the trust and our report in terms of subsection (3) of Section 143 of the Act, in so far as it relates to the aforesaid trust, is based solely on the report of such other auditor.
+
+Our opinion on the standalone financial statements and our report on Other Legal and Regulatory Requirements below is not modified in respect of these matters.

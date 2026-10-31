@@ -1,0 +1,39 @@
+## **FROM TALEGOAN TOLL PLAZA TO BAJAJ AUTO LTD. (PUNE) VIA SOMATANE PHATA @ 17 KM.**
+## **FROM TALEGOAN TOLL PLAZA TO MARRIOTT HOTEL (PUNE) VIA BANER ROAD @ 30 KM.**
+
+map: Route map from Talegoan Toll Plaza to Bajaj Auto Ltd. and Marriott Hotel in Pune
+
+icon: NORTH
+
+**BAJAJ AUTO LTD.**
+**MUMBAI-PUNE ROAD**
+**AKURDI, PUNE-411035**
+
+**MARRIOTT**
+**PUNE HOTEL &**
+**CONVENTIONAL CENTRE**
+**SENAPATI BAPAT ROAD**
+**PUNE - 411053**
+
+<hr/>
+
+## **FROM MARRIOTT HOTEL, PUNE TO BAJAJ AUTO LTD. @ 18 KM. & BACK TO HOTEL**
+
+map: Route map from Marriott Hotel, Pune to Bajaj Auto Ltd. and back
+
+code: QR code for navigation
+
+Scan using the camera app for iOS devices and google lens for android devices
+
+**FROM MUMBAI TO BAJAJ AUTO LTD.**
+**MUMBAI PUNE ROAD, AKURDI PUNE-411035**
+
+**FROM MUMBAI TO MARRIOTT**
+**PUNE HOTELS & CONVENTIONAL CENTRE**
+
+**FROM MARRIOTT PUNE HOTELS & CONVENTIONAL**
+**CENTRE TO BAJAJ AUTO LTD. AKURDI, PUNE-411035**
+
+**BAJAJ AUTO LTD.**
+**MUMBAI-PUNE ROAD**
+**AKURDI, PUNE-411035**

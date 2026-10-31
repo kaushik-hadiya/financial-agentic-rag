@@ -1,0 +1,16 @@
+## **Leadership Indicators**
+
+**1. Provide the processes for consultation between stakeholders and the board on economic, environmental and social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.**
+
+We regularly engage with our key stakeholders (end-users, restaurant partners and delivery partners) as outlined in our Stakeholder management policy. Each business unit in every operating location is required to carry out stakeholder engagement in line with the stakeholder management policy. Through the channels described in the policy, the functional teams in Eternal receive feedback from various groups of stakeholders (external and internal) on our initiatives and operations. This feedback is analyzed and discussed with relevant leadership teams to identify, develop and implement the environmental and social topics. Select actions are discussed with the CSR committee of the board based on their overall importance and these meetings are minuted. The CSR Committee at Eternal also undertakes responsibility for climate and sustainability-related matters.
+
+<u>(link to the policy)</u>
+
+**2. Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes/ No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into the policies and activities of the entity.**
+
+Yes. Stakeholder consultation was an integral part of the double materiality assessment that we conducted in FY26 with the help of an independent external organization to refresh the set of ESG topics material to the firm. Additionally, we regularly engage with local stakeholders via various channels to identify their emerging concerns to make improvements and design innovative offerings to meet their expectations. We also conduct regular surveys and impact assessments of projects that involve local stakeholders.
+
+Below are the examples of how Eternal has used inputs received from stakeholders on material sustainability issues to design new initiatives and offerings in FY26:
+
+<table><tr><th><strong>Stakeholder group</strong></th><th><strong>Input modes</strong></th><th><strong>Incorporation of inputs</strong></th></tr>
+<tr><td>Employees</td><td>• Online channels (slack, emails, etc.)<br />• Discussions with employees across forums and targeted session</td><td><strong>Material topic: Climate action and circular economy</strong><br />Based on input received from employees, one of the initiatives the company launched in FY26 was an internal sustainability education program including:<br />• <strong>Regular learning sessions</strong> with external and internal experts. In FY26, we conducted sessions focused on afforestation and water conservation.<br />• <strong>A dedicated online channel and community</strong> for environmental education, exchange of ideas and efforts made by employees towards environmental protection.<br />• <strong>Offline activities</strong> to raise awareness among employees on sustainable packaging, repurposing waste and to encourage the adoption of sustainable practices, such as the appropriate segregation and disposal of various kinds of waste.</td></tr></table>

@@ -1,0 +1,22 @@
+logo: Bajaj 100 Years logo: Bajaj The World's Favourite Indian
+
+## **12. Describe the measures taken by the entity to ensure a safe and healthy workplace.**
+
+**Response:** At BAL, we adopt a comprehensive "Proactive and Reactive" approach to ensure a world-class safe and healthy work environment across all our plants. Our proactive strategy is built on a foundation of ISO 45001 and IS 14489 standards, featuring rigorous Hazard Identification and Risk Assessment (HIRA), Behavior-Based Safety (BBS) programs, and an electronic Work Permit System (e-PTW) for high-risk activities. We invest heavily in engineering controls, such as automated fire detection and suppression systems (SCADA-monitored), overhead conveyors to reduce fatigue, and advanced automation to minimise manual intervention. Regular safety audits, including Site Observation Tours (SOT) and external competent agency inspections, ensure 100% legal compliance and continuous improvement. We foster a strong safety culture through extensive training programs—ranging from induction to specialised chemical and electrical safety—and engage our workforce through the Safety Captain initiative, safety kaizens, and reward programs. To ensure holistic well-being, we conduct periodic occupational health surveillance and medical check-ups, while our "Yutori" wellness initiatives support the body, mind, and soul of our employees. Reactively, we maintain a robust incident reporting and root-cause analysis system, ensuring that learnings from near-misses and accidents are institutionalised across all departments to prevent recurrence.
+
+## **13. Number of Complaints on the following made by employees and workers:**
+
+<table><tr><th></th><th colspan="3"><strong>FY 2025-26</strong></th><th colspan="3"><strong>FY 2024-25</strong></th></tr>
+<tr><th></th><th><strong>Filed during the year</strong></th><th><strong>Pending resolution at the end of year</strong></th><th><strong>Remarks</strong></th><th><strong>Filed during the year</strong></th><th><strong>Pending resolution at the end of year</strong></th><th><strong>Remarks</strong></th></tr>
+<tr><td>Working Conditions</td><td>Nil</td><td>Nil</td><td>None</td><td>6</td><td>Nil</td><td>None</td></tr>
+<tr><td>Health and Safety</td><td>4</td><td>Nil</td><td>None</td><td>7</td><td>Nil</td><td>None</td></tr></table>
+
+## **14. Assessments for the year:**
+
+<table><tr><th><strong>Particulars</strong></th><th><strong>Percentage of your plants and offices that were assessed (by entity or statutory authorities or third parties)</strong></th></tr>
+<tr><td>Health and safety practices</td><td>100% of the plants were assessed</td></tr>
+<tr><td>Working Conditions</td><td>100% of the plants were assessed</td></tr></table>
+
+## **15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks/concerns arising from assessments of health & safety practices and working conditions.**
+
+**Response:** At BAL, we maintain a proactive stance toward risk management by utilizing a structured Corrective Action and Preventive Action (CAPA) framework and Why-Why analysis to investigate all safety-related incidents and prevent their recurrence. Significant risks and concerns identified through our comprehensive auditing processes are meticulously documented in a Risk & Opportunity Register, with mitigation strategies implemented in strict alignment with the Hierarchy of Controls. To address these identified risks, we have deployed advanced technological solutions across our sites, including Zero-Access guarding, Safety Light Curtains, and Biometric Access Control for material handling equipment. Furthermore, we have integrated Autonomous Mobile Robots (AMRs), AI-powered cameras for real-time monitoring of hazardous areas, and specialised robotic safety systems to eliminate human exposure to hazards. Beyond technical controls, we prioritise ergonomics and occupational health through initiatives such as anti-fatigue matting and tool modifications to eliminate pinch points. Through our Horizontal Development system, successful safety interventions at one location are standardised across all plants, ensuring a consistently high level of safety performance and the effective elimination of workplace risks.

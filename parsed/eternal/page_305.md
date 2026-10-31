@@ -1,0 +1,21 @@
+not express any form of assurance conclusion thereon.
+
+* In connection with our audit of the standalone financial statements, our responsibility is to read the other information identified above when it becomes available and, in doing so, consider whether the other information is materially inconsistent with the standalone financial statements or our knowledge obtained during the course of our audit or otherwise appears to be materially misstated.
+* When we read the Board report, if we conclude that there is a material misstatement therein, we are required to communicate the matter to those charged with governance as required under SA 720 ‘The Auditor’s responsibilities Relating to Other Information’.
+
+## **Responsibilities of Management and Board of Directors for the Standalone Financial Statements**
+
+The Company’s Board of Directors is responsible for the matters stated in section 134(5) of the Act with respect to the preparation of these standalone financial statements that give a true and fair view of the financial position, financial performance including other comprehensive income, cash flows and changes in equity of the Company in accordance with the accounting principles generally accepted in India, including Ind AS specified under section 133 of the Act. This responsibility also includes maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of the Company and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the financial statements that give a true and fair view and are free from material misstatement, whether due to fraud or error.
+
+In preparing the standalone financial statements, management and Board of Directors are responsible for assessing the Company’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Board of Directors either intend to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+
+The Company’s Board of Directors is also responsible for overseeing the Company’s financial reporting process.
+
+## **Auditor’s Responsibility for the Audit of the Standalone Financial Statements**
+
+Our objectives are to obtain reasonable assurance about whether the standalone financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these standalone financial statements.
+
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:
+
+* Identify and assess the risks of material misstatement of the standalone financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+* Obtain an understanding of internal financial controls relevant to the audit in order to design audit procedures that are appropriate in the circumstances. Under section 143(3)(i) of the Act, we are also responsible for expressing our opinion on whether the Company has adequate internal financial controls with reference to

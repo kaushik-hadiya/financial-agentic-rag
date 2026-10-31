@@ -1,0 +1,9 @@
+logo: BAJAJ 100 Years
+
+logo: BAJAJ THE WORLD'S FAVOURITE INDIAN
+
+photo: BAJAJ RIKI C4005 three-wheeler
+
+**RIKI C4005**
+
+logo: BAJAJ RIKI

@@ -1,0 +1,23 @@
+* The premium motorcycle business under KTM and Triumph delivered its best ever performance during the year. Supported by portfolio expansion, network growth and impactful activation, the brands together set new milestones while strengthening our position at the top end of the motorcycle market.
+
+* Chetak volumes crossed new highs during the year, supported by an expanded portfolio, wider availability and increasing customer trust in the brand, that has come to be recognized as one of India’s leading and trusted electric scooters. What I find truly heartening in this record performance is how the business staged a strong recovery in the second half of the year after being setback by the rare earth disruption earlier on, as swift engineering interventions and agility in the backend enabled improved availability of supplies.
+
+* In Commercial Vehicles, your Company crossed the historic milestone of over 5 lakh units for the full year for the first time. The ICE franchise remains strong while the electric three-wheeler business scaled rapidly to exit the year with segment leadership. Today, our electric three-wheeler business has the widest portfolio and service footprint in the country, replicating the trust, reliability and quality that the Bajaj three-wheelers have come to be known for over the years. Your Company also made its foray into the e-Rickshaw category with the launch of ‘Riki’ during the year and is enthused by the large and attractive addressable market opportunity that lies ahead.
+
+* Exports delivered a strong comeback, reaching new highs on revenue and emerging as one of the biggest highlights of the year.
+
+* Volumes crossed the important milestone of over 2 lakh units per month during the year after a prolonged gap, underlining the rebound in overseas markets and our strong competitive performance.
+
+* Latin America sustained its remarkable momentum and delivered yet another record year, with our brands continuing to enjoy deep trust and preference among customers.
+
+* Several Asian markets including Sri Lanka, Nepal and the Philippines recorded strong growth, while the recovery in Nigeria showed encouraging signs of stability.
+
+* Exports of KTM motorcycles from India also revived during the year after a period of disruption that was caused by the restructuring proceedings in Austria.
+
+* Brazil scaled up significantly during the year supported by augmented manufacturing capacity, successful product introductions and a growing network presence. It is particularly gratifying to see the encouraging acceptance of our products in such a competitive market despite being a relatively late entrant.
+
+* Our spares business delivered another year of record revenue and profitability, driven by sharper execution, improved service levels and strong channel partnerships.
+
+Looking at our key subsidiaries, Bajaj Auto Credit Limited has made very impressive progress, having scaled rapidly and emerged as a key strategic enabler for the parent Company business. The financing Company remained steadfast in meaningfully expanding its customer franchise, delivering compelling propositions for its customers and building future ready capabilities with a digital first mindset while delivering strong returns and maintaining healthy asset quality. Assets Under Management grew ~2X to ₹ 18,835 crore as of 31 March 2026, Total Income stood at ₹ 3,248 crore, up >3X and Profit After Tax at ₹ 665 crore surged >11X, all over previous year. In its second year of effective operations, the business has delivered an industry-leading return on equity of 23% and enjoys the highest level of creditworthiness with AAA/Stable long-term debt ratings, and A1+ for its short-term debt programs.
+
+On KTM, following the intense self-administration/restructuring process that the Company in Austria underwent earlier in the year, your Company stepped in to acquire a controlling stake and take charge of its revival. Since acquiring control in November 2025, we have worked closely with the Austrian team on capital backing, strengthening governance, reconstituting the Board, and putting in place a renewed Executive Leadership team with a clear mandate for owning/executing a roadmap that envisages a broad range of strategic actions to reboot and turnaround the business. Together, these actions are helping restore confidence among key stakeholders and laying the foundation for the Company’s long-term recovery. While the turnaround remains work in progress, it is well underway, and we remain confident in the enduring strength of the KTM brand, its global customer franchise and its ability to return, over time, to the level of performance for which it has long been known.

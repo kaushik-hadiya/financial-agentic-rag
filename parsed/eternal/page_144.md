@@ -1,0 +1,17 @@
+## **Value chain waste management**
+
+Packaging and food waste are the two kinds of waste associated with food delivery orders sent by restaurants to end-consumers via the Zomato platform. Restaurants choose the kind of packaging they wish to use to deliver food. Restaurant practices also determine the amount of waste generated in the cooking process. End-consumers control the number of orders they may place, cancellation decisions and process of disposal of packaging and leftovers (after consuming food). We run several voluntary initiatives to positively influence behaviours of both stakeholders with respect to waste management.
+
+### • **Reducing food and cutlery waste**
+
+* The Zomato app offers consumers the option of making special requests at the time of ordering, including a request to the restaurant not to send cutlery, thereby reducing cutlery waste. Between FY22 and FY26, this initiative has helped avoid over 3,000 MT of cutlery waste.
+* Additionally, The ‘Food Rescue’ initiative further addresses food wastage by making canceled orders available for nearby customers in their original untampered packaging at discounted prices. Since launch in FY25, Zomato’s Food Rescue feature has helped prevent over 7.5 lakh kg of food waste by diverting cancelled orders to interested buyers (assuming each order weighs approximately 400g).
+
+### • **Rewarding adopters and innovators of sustainable packaging**
+
+* We introduced the Zomato Plastic-Free Future Program in December 2024 for restaurant partners actively adopting sustainable alternatives to plastic packaging for food deliveries. To recognize their efforts, these restaurants now carry a prominent ‘Low plastic packaging’ tag on their menu pages, banners and a clear label in the order summary, making it easy for customers to identify these restaurants. Customers can also discover these restaurants faster by typing ‘Low plastic packaging’ in the search bar or using the ‘Low plastic packaging’ filter option. As of March 31<sup>st</sup> 2026, over 100 million ‘Low plastic packaging’ orders had been delivered from restaurants that had signed up to the Plastic-Free Future Program.
+* To promote innovation on alternatives to plastic packaging for the food delivery use-case, we run an annual event on sustainable packaging bringing start-up innovators and restaurateurs to the same platform. In FY26, Zomato Plastic-Free Future Packathon was held in partnership with Startup India and Hyperpure by Zomato attracting applications from more than 125 sustainable packaging start-ups all over India.
+
+### • **Voluntary recycling**
+
+* Plastic continues to play an important role in packaging for food deliveries for a few important reasons. Many restaurants, especially those that offer Indian and Oriental cuisine, choose plastic containers, trays and bottles for food deliveries on account of lack of suitable sustainable alternatives for liquids and ‘wet’ cuisine such as gravies, soups and beverages. Apart from functional reasons, plastic is relatively affordable and more available across India. In order to offset the impact of plastic packaging used by restaurants on the environment, in FY23, we launched a voluntary plastic waste recycling initiative called the 100% plastic neutral deliveries initiative. Since launch, Eternal has voluntarily recycled 60,000 MT of plastic waste from FY23-FY26 (15,000 MT was recycled in FY26 alone) fully meeting the target of 100% plastic neutral deliveries as per independent estimates.

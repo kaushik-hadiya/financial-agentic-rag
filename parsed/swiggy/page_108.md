@@ -1,0 +1,44 @@
+<table><tr><th>BRSR section</th><th>BRSR principle</th><th>BRSR question</th><th>GRI indicator</th></tr>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td>Health and safety management system: a. Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the coverage such system? b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity? c. Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Y/N) d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)</td><td>GRI 403-1-a<br />GRI 403-1-b<br />GRI 403-2-a<br />GRI 403-2-b<br />GRI 403-2-c<br />GRI 403-4-a<br />GRI 403-6-a</td></tr>
+<tr><td>Details of safety related incidents, in the following format:</td><td>GRI 403-9-a-i-v GRI 403-9-b-i-v GRI 403-10-a<br />GRI 403-10-b-ii</td></tr>
+<tr><td rowspan="11">Principle 4</td><td rowspan="11"></td><td>Describe the measures taken by the entity to ensure a safe and healthy work place</td><td>GRI 3-3-d-i-iii<br />GRI 403-2-a-i-ii<br />GRI 403-9-c-iii GRI 403-9-d<br />GRI 403-10-c-iii</td></tr>
+<tr><td>Number of Complaints on the following made by employees and workers:</td><td>GRI 2-25-e</td></tr>
+<tr><td>Assessments for the year: Health and safety practices, Working Conditions</td><td>GRI 3-3-e-i</td></tr>
+<tr><td>Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / concerns arising from assessments of health &#x26; safety practices and working conditions.</td><td>GRI 3-3-d-i-ii<br />GRI 403-9-c-ii-iii GRI 403-9-d<br />GRI 403-10-c-ii-iii</td></tr>
+<tr><td>Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers (Y/N)</td><td>GRI 401-a-i</td></tr>
+<tr><td>Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain partners</td><td></td></tr>
+<tr><td>Provide the number of employees / workers having suffered high consequence workrelated injury / ill-health / fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment:</td><td>GRI 3-3-d-ii</td></tr>
+<tr><td>Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings resulting from retirement or termination of employment? (Yes/ No)</td><td>GRI 404-2-b</td></tr>
+<tr><td>Details on assessment of value chain partners</td><td>GRI 414-2-a</td></tr>
+<tr><td>Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of health and safety practices and working conditions of value chain partners.</td><td>GRI 414-2-d<br />GRI 414-2-e</td></tr>
+<tr><td>Describe the processes for identifying key stakeholder groups of the entity.</td><td>GRI 2-29-a-i</td></tr>
+<tr><td>List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.</td><td>GRI 3-1-b<br />GRI 2-29-a-i-iii</td></tr>
+<tr><td>Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.</td><td>GRI 2-12-b<br />GRI 2-13- (a, b) GRI 2-29-a</td></tr>
+<tr><td>Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies and activities of the entity.</td><td>GRI 3-1-a-i-ii<br />GRI 3-1-b</td></tr>
+<tr><td>Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalised stakeholder groups.</td><td>GRI 2-29-a-i-iii</td></tr>
+<tr><td rowspan="5">Principle 5</td><td rowspan="5"></td><td>Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:</td><td>GRI 2-24-a-iv<br />GRI 205-2-e<br />GRI 403-5-a<br />GRI 404-1-a-i-ii GRI 410-1-a</td></tr>
+<tr><td>Details of minimum wages paid to employees and workers, in the following format</td><td>GRI 202-1- (a, b) GRI 405-2-a</td></tr>
+<tr><td>Details of remuneration/salary/wages a. Median remuneration / wages b. Gross wages paid to females as % of total wages paid by the entity, in the following format</td><td>GRI 2-19-a-i-v<br />GRI 2-21-a</td></tr></table>
+
+<table><tr><th>BRSR section</th><th>BRSR principle</th><th>BRSR question</th><th>GRI indicator</th></tr>
+<tr><td rowspan="15"></td><td rowspan="15"></td><td>Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to by the business? (Yes/No)</td><td>GRI 2-13-a-i-ii</td></tr>
+<tr><td>Describe the internal mechanisms in place to redress grievances related to human rights issues.</td><td>GRI 2-25-b<br />GRI 2-25-d<br />GRI 2-25-e</td></tr>
+<tr><td>Number of Complaints on the following made by employees and workers:</td><td>GRI 2-25-e,<br />GRI 406-1-a 5.1, 5.2, 8.7,</td></tr>
+<tr><td>Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the following format:</td><td></td></tr>
+<tr><td>Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases</td><td>GRI 2-25-e</td></tr>
+<tr><td>Do human rights requirements form part of your business agreements and contracts? (Yes/No)</td><td>GRI 2-23-a-iv<br />GRI 2-23-e<br />GRI 2-23-f<br />GRI 2-24-a-iii<br />GRI 414<br />GRI 3-3</td></tr>
+<tr><td>Assessments for the year (Child labour, Forced/involuntary labour, etc)</td><td></td></tr>
+<tr><td>Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 10 above.</td><td>GRI 3-3-d-i-ii</td></tr>
+<tr><td>Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.</td><td>GRI 2-25- (b, e) GRI 3-3-d-i-ii</td></tr>
+<tr><td>Details of the scope and coverage of any Human rights due-diligence conducted</td><td>GRI 3-1-a-i<br />GRI 3-3- (a, c, d)</td></tr>
+<tr><td>Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with Disabilities Act, 2016?</td><td></td></tr>
+<tr><td>Details on assessment of value chain partners (Sexual Harassment, Discrimination at workplace, Child Labour, etc)</td><td>GRI 414-1-a<br />GRI 414-2-a</td></tr>
+<tr><td>Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 4 above.</td><td>GRI 414-2- (d, e)</td></tr>
+<tr><td rowspan="6">Principle 6</td><td rowspan="6"></td><td>Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:</td><td>GRI 302-1-a<br />GRI 302-1-b<br />GRI 302-1-c-i<br />GRI 302-1-e<br />GRI 302-3-a<br />GRI 302-1-b</td></tr>
+<tr><td>Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.</td><td></td></tr>
+<tr><td>Provide details of the following disclosures related to water, in the following format:</td><td>GRI 303-1<br />GRI 303-3-a-i-iv GRI 303-5-a</td></tr>
+<tr><td>Provide the following details related to water discharged:</td><td></td></tr>
+<tr><td>Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.</td><td>GRI 303-1-a<br />GRI 303-2-a</td></tr>
+<tr><td>Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:</td><td>GRI 305-7-a-i-vii</td></tr>
+<tr><td></td><td></td><td>Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) &#x26; its intensity, in the following format:</td><td>GRI 305-1<br />GRI 305-2<br />GRI 305-3<br />GRI-305-4</td></tr>
+<tr><td></td><td></td><td>Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.</td><td>GRI 305-5-a<br />GRI 305-5-b<br />GRI 305-5-c<br />GRI 305-5-d</td></tr></table>

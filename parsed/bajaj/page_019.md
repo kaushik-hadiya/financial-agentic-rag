@@ -1,0 +1,1 @@
+photo: A motorcyclist in full black and red gear riding a red, white, and black sportbike on a wet racetrack with a misty forest in the background.

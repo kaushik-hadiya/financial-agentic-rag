@@ -1,0 +1,16 @@
+logo: Bajaj Auto 100 Years
+logo: Bajaj Auto
+logo: The World's Favourite Indian
+
+**This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC Principles and Core Elements**
+
+<table><tr><th><strong>Disclosure Question</strong></th><th>P1</th><th>P2</th><th>P3</th><th>P4</th><th>P5</th><th>P6</th><th>P7</th><th>P8</th><th>P9</th></tr>
+<tr><td colspan="10"><strong>Policy and management processes</strong></td></tr>
+<tr><td>1. a. Whether your entity’s policy/policies cover each principle and its core elements of the NGRBCs. (Yes/No)</td><td colspan="9">Yes, at Bajaj Auto we have policies which covers the core elements of all NGRBC principles.</td></tr>
+<tr><td>b. Has the policy been approved by the Board? (Yes/No)</td><td colspan="9">Yes, all our policies are approved by the Board.</td></tr>
+<tr><td>c. Web Link of the Policies, if available</td><td colspan="9"><u>https://www.bajajauto.com/investors/policies-codes</u><br /><u>https://www.bajajauto.com/corporate/key-policies</u></td></tr>
+<tr><td>2. Whether the entity has translated the policy into procedures. (Yes/No)</td><td colspan="9">Yes, at Bajaj Auto we have implemented policies in all our operations and activities of the organisation.</td></tr>
+<tr><td>3. Do the enlisted policies extend to your value chain partners? (Yes/No)</td><td colspan="9">Yes, but restricted to all our Original Equipment suppliers.</td></tr>
+<tr><td>4. Name of the national and international codes/certifications/labels/standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest Alliance, Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity and mapped to each principle.</td><td colspan="9">ISO 45001:2018, ISO 14001:2015</td></tr>
+<tr><td>5. Specific commitments, goals and targets set by the entity with defined timelines, if any.</td><td colspan="9">● To sustain 100% Water Positivity by rainwater harvesting and ground water recharge<br />● To sustain Zero Liquid Discharge by recycling water<br />● To achieve Renewable energy use share to 30% by 2030<br />● To reduce Scope 1 and Scope 2 emissions intensity (by revenue from operations) 50% by 2030, against a baseline year of FY 2023-24<br />● Zero paint sludge to incineration through adoption of coprocessing/ reprocessing by 2028<br />● Elimination of Ozone Depleting Substances (ODS) - R22 by 2030</td></tr>
+<tr><td>6. Performance of the entity against the specific commitments, goals, and targets along-with reasons in case the same are not met.</td><td colspan="9">● 100% Water Positivity by rainwater harvesting and ground water recharge sustained<br />● Sustained Zero Liquid Discharge by recycling water (all plants except Pantnagar due to CTO conditions)<br />● Renewable energy share is 7.4%<br />● Decrease in Scope 1 and Scope 2 emissions intensity (by revenue from operations) by 11%, against a baseline year of FY2023-24<br />● Reduction in paint sludge disposal through incineration from 52% in FY2024-25 to 1% in FY2025-26<br />● 40.6% reduction in ODS (R-22) consumption against a baseline year of FY 2023-24</td></tr></table>

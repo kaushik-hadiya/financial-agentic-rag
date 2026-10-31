@@ -1,0 +1,13 @@
+## **Our core sustainability pillars**
+
+The nine material topics identified through our double materiality assessment have been classified under four core ESG pillars aligned with UN SDGs. These pillars build on the eight-theme framework we have followed since FY22, consolidating them into a sharper structure that reflects the business we operate today.
+
+<table><tr><th><strong>Sustainability pillar</strong></th><th><strong>Material topic</strong></th><th><strong>UN SDG alignment</strong></th></tr>
+<tr><td><strong>1. Climate action and circular economy</strong></td><td>• Climate action and circular economy</td><td>icon: SDG 2 Zero Hunger icon: SDG 3 Good Health and Well-being icon: SDG 9 Industry, Innovation and Infrastructure icon: SDG 17 Partnerships for the Goals</td></tr>
+<tr><td><strong>2. Inclusive growth</strong></td><td>• Stakeholder value creation<br />• Human capital development</td><td>icon: SDG 7 Affordable and Clean Energy icon: SDG 11 Sustainable Cities and Communities icon: SDG 12 Responsible Consumption and Production icon: SDG 13 Climate Action icon: SDG 15 Life on Land</td></tr>
+<tr><td><strong>3. Responsible business leadership</strong></td><td>• Innovation<br />• Health, safety and dignity for all<br />• Food quality, storage and transportation<br />• Brand and reputation</td><td>icon: SDG 4 Quality Education icon: SDG 5 Gender Equality icon: SDG 8 Decent Work and Economic Growth icon: SDG 10 Reduced Inequalities</td></tr>
+<tr><td><strong>4. Corporate governance</strong></td><td>• Corporate governance, ethics and risk oversight<br />• Data privacy, cybersecurity and responsible AI</td><td></td></tr></table>
+
+The goals we set under our earlier framework in Jan-23 were defined for the food delivery business, which was our only large business at the time. We made good progress on many of those goals. For example, we have maintained 100% plastic neutral food deliveries by recycling as much plastic as restaurants use for packing their food delivery orders, delivered 100 million 'low plastic packaging' orders from 10k+ restaurants and achieved our target of serving 300,000+ MSME restaurants and creating economic opportunities for over 1 million delivery partners. We also achieved our goal of serving 300 million meals through Feeding India in Jun-26, well before our initial timeline of 2030.
+
+We are now crafting new goals relevant to our expanded portfolio of businesses and aligned with the material topics identified in our latest assessment. As part of this exercise, we also intend to revise our goals around 100% EV-based deliveries and Net Zero (covered under Pillar 1 below).
